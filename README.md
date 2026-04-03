@@ -3,6 +3,7 @@ This repository provides the original PyTorch implementation of the TrustWI fram
 
 Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic via Uncertainty-Aware Fusion
 
+''
 @ARTICLE{11410518,
   author={Zhong, Meihui and Cao, Chengtai and Tai, Wenxin and Zhou, Fan},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
@@ -12,4 +13,4 @@ Shattering Weak Facades: Trustworthy Detection of Encrypted Malicious Traffic vi
   number={},
   pages={1-12},
   doi={10.1109/TDSC.2026.3667905}}
-
+''
